@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+## Some of my favourite places
+* The Azores
+  * Sao Miguel
+  * Furnas
+* Wales
+  * Machynlleth
+  * Aberystwyth
+* Scotland
+  * Dunbar
