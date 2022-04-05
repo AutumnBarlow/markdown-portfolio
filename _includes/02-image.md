@@ -1,1 +1,1 @@
-![Image of a castle]  (https://d3576n5e2t76p8.cloudfront.net/imager/s3-eu-west-1_amazonaws_com/ws-nts/Production/assets/images/key/Main-Brodie-Castle-Daffodil-0119_cf3a2ea7120af991fae47bb5b576e792.jpg)
+! [Image of a cartoon cat]  (https://octodex.github.com/images/yaktocat.png)
