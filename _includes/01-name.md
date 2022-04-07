@@ -8,13 +8,13 @@ This is a portfolio site intended to be viewed by potential recruiters and emplo
 
 #### Who I am
 
-I am an experienced writer and editor with over ten years' experience. I am currently working as a freelance editor for Helion & Co, a publisher of military history books. This involves a forensic attention to detail, especially for military specifications. I often work with authors whose first language is not English, and have to strike a balance between keeping their original voice while making the text accessible to all readers. 
+I am an experienced writer and editor with over ten years' experience. I am currently working as a freelance editor for Helion & Co., a publisher of military history books. This involves a forensic attention to detail, especially for military specifications. I often work with authors whose first language is not English, and have to strike a balance between keeping their original voice while making the text accessible to all readers. 
 
 I have also worked as an editor for John Hunt Publishing and on a freelance basis for independent authors. I was a freelance journalist for some years, specialising in writing about cycling. I am based in the East Midlands.
 
 #### My current objectives
 
-I am transitioning into Technical Writing as I see that this would be a great fit for my skills. I am fascinated by technology, and have been ever since I built by first PC in 1995/1996 (Windows 3.1 booted from 4 floppy discs!). I am comfortable with HTML/CSS and have undertaken some very basic Python courses. I am in the process of learning more about Python for my own interests, and I have begun to learn JavaScript as the logical next step after HTML/CSS. Ultimately, I intend to find work as a Technical Writer, ideally within the world of software documentation but I would also be open to MOD work. 
+I am transitioning into Technical Writing as I see that this would be a great fit for my skills. I am fascinated by technology, and have been ever since I built by first PC in 1995/1996 (Windows 3.1 booted from 4 floppy discs!) I am comfortable with HTML/CSS and have undertaken some very basic Python courses. I am in the process of learning more about Python for my own interests, and I have begun to learn JavaScript as the logical next step after HTML/CSS. Ultimately, I intend to find work as a Technical Writer, ideally within the world of software documentation but I would also be open to MOD work. 
 
 #### My contact details
 
@@ -39,6 +39,6 @@ You can find me on [LinkedIn](www.linkedin.com/in/autumn-barlow-writing)
 
 ### Meta
 
-This is written in Markdown and the styling is using Jekyll. It is a static site hosted by GitHub Pages. 
+This is written in Markdown directly from my GitHub repository. It is a static site hosted by GitHub Pages. 
 
 
