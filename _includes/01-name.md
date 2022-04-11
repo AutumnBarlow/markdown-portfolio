@@ -28,8 +28,7 @@ You can find me on [LinkedIn](www.linkedin.com/in/autumn-barlow-writing)
 | Skills and Knowledge | Evidence |
 | --- | --- | 
 | Working with SMEs | As the Outreach Teacher at HMP Hewell, I collaborated with the farm staff to develop the curriculum for the City and Guilds Basic Stocksmanship certificate. |
-| DITA | add stuff to demo not just theoretical knowledge |
-| XML | add stuff |
+| DITA and XML | add stuff to demo not just theoretical knowledge |
 | DDLC | add stuff |
 | Agile working | Futurelearn course to come |
 | MadCap Flare | To get trial and learn |
