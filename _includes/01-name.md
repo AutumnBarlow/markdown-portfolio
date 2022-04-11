@@ -14,11 +14,25 @@ I have also worked as an editor for John Hunt Publishing and on a freelance basi
 
 #### My current objectives
 
-I am transitioning into Technical Writing as I see that this would be a great fit for my skills. I am fascinated by technology, and have been ever since I built by first PC in 1995/1996 (Windows 3.1 booted from 4 floppy discs!) I am comfortable with HTML/CSS and have undertaken some very basic Python courses. I am in the process of learning more about Python for my own interests, and I have begun to learn JavaScript as the logical next step after HTML/CSS. Ultimately, I intend to find work as a Technical Writer, ideally within the world of software documentation but I would also be open to MOD work. 
+- I am transitioning into Technical Writing as I see that this would be a great fit for my skills. I am fascinated by technology, and have been ever since I built by first PC in 1995/1996 (Windows 3.1 booted from 4 floppy discs!) 
+- I am comfortable with HTML/CSS and have undertaken some very basic Python courses. I am in the process of learning more about Python for my own interests, and I have begun to learn JavaScript as the logical next step after HTML/CSS. 
+- Ultimately, I intend to find work as a Technical Writer, ideally within the world of software documentation but I would also be open to MOD work. 
+- Throughout April and May, I am participating in Write the Doc's Slack community readthrough of *Learn Git in a Month of Lunches*.
 
 #### My contact details
 
 You can find me on [LinkedIn](www.linkedin.com/in/autumn-barlow-writing)
+
+### Skills, Knowledge and Experience
+
+| Skills and Knowledge | Evidence |
+| --- | --- | 
+| Working with SMEs | As the Outreach Teacher at HMP Hewell, I collaborated with the farm staff to develop the curriculum for the City and Guilds Basic Stocksmanship certificate. |
+| DITA | add stuff to demo not just theoretical knowledge |
+| XML | add stuff |
+| DDLC | add stuff |
+| Agile working | Futurelearn course to come |
+| MadCap Flare | To get trial and learn |
 
 ### Links to Writing
 
@@ -29,7 +43,7 @@ You can find me on [LinkedIn](www.linkedin.com/in/autumn-barlow-writing)
 
 #### Published work I have edited
 
-1. Helion & Co. I have undertaken six non-fiction books in the past year. Please contact me for further details.
+1. Helion & Co. I have undertaken detailed editing of six non-fiction books in the past year. Please contact me for further details.
 2. John Hunt Publishing. I undertook dozens of fiction books between 2012 and 2015. Please contact me for further details.
 
 #### Writing samples
